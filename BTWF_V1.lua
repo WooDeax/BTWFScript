@@ -1,4 +1,4 @@
-﻿local Players = game.Players
+local Players = game.Players
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local VirtualInputManager = game:GetService("VirtualInputManager")
 local TweenService = game:GetService("TweenService")
