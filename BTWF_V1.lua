@@ -6,7 +6,7 @@ local UserInputService = game:GetService("UserInputService")
 local HttpService = game:GetService("HttpService")
 
 
-local LocalPlayer = Players.LocalPlayer
+local LocalPlayer = game.Players.LocalPlayer
 local Limits = LocalPlayer:WaitForChild("Limits")
 local Bricks = LocalPlayer:WaitForChild("Bricks")
 local Stones = LocalPlayer:WaitForChild("Stones")
